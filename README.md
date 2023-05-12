@@ -1,4 +1,4 @@
-# Amazon Customer Churn Prediction Challenge
+# Customer Churn Prediction
 
 ## Background
 
